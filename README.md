@@ -2,7 +2,7 @@
 	<img
 		width="300"
 		alt="Jetty"
-		src="	https://jetty-beta.herokuapp.com/static/media/faviconjetty.1b7ee599e93a695b5d77.png">
+		src="https://i.ibb.co/k4TNp9b/favicon-1024-2-1.png">
 </h1>
 
 <h3 align="center">
@@ -24,6 +24,9 @@
 	<a href="https://jetty-beta.herokuapp.com/">Click here To visit Deployed Link</a>
 </p>
 
+## Sample Credentials:
+- email: johndoe@gmail.com	
+- password: 12345678@Aa
 
 
 ## Overview
