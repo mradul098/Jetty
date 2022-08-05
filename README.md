@@ -10,15 +10,7 @@
 </h3>
 
 <p align="center">
-	<strong>
-		<a href="https://thelounge.chat/">Website</a>
-		•
-		<a href="https://thelounge.chat/docs">Docs</a>
-		•
-		<a href="https://demo.thelounge.chat/">Demo</a>
-    •
-		<a href="https://github.com/thelounge/thelounge-docker">Docker</a>
-	</strong>
+	
 </p>
 <p align="center">
 	<a href="https://jetty-beta.herokuapp.com/">Click here To visit Deployed Link</a>
